@@ -1,0 +1,10 @@
+site_name: Отчет о тестовом задании по направлению «Frontend-разработка»
+site_url: https://github.com/tt3cpl/gazprom_testwork.github.io.git/dosc
+theme:
+  name: material
+
+nav:
+  - Главная: index.md
+  - Описание проекта: readme123.md
+
+  
